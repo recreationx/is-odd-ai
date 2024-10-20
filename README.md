@@ -1,4 +1,6 @@
 # is-odd-ai
+![PyPI - Version](https://img.shields.io/pypi/v/is-odd-ai)
+
 A project inspired by the npm version [`is-odd-ai`](https://github.com/rhettlunn/is-odd-ai)
 
 `is-odd-ai` uses OpenAI's GPT-4o-mini model to determine if a number is odd or even. AI to the moon 🚀🚀🌝!

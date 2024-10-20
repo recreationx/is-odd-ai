@@ -4,12 +4,17 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "is-odd-ai"
-version = "0.0.2"
+version = "0.0.2.post1"
 authors = [
     { name="recreationx"}
 ]
-description = "A Python package to check if a number is odd using an AI model."
+description = "Check if a number is odd or even using AI"
 readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "MIT" }
 dependencies = ["requests>=2.32"]
+keywords = ["odd", "even", "is odd", "is even", "is odd ai", "is even ai", "ai"]
+
+[project.urls]
+Repository = "https://github.com/recreationx/is-odd-ai"
+Issues = "https://github.com/recreationx/is-odd-ai/issues"
